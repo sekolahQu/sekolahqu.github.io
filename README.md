@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Selamat Datang di website Project SekolahQu
 
-You can use the [editor on GitHub](https://github.com/sekolahQu/sekolahqu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<dalam pengembangan>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Tentang SekolahQu
 
-### Markdown
+Saya yakin, untuk meningkatkan mutu pendidikan di Indonesia dibutuhkan suatu sistem yang terintegrasi serta mudah digunakan.
+SekolahQu merupakan aplikasi untuk mengelola semua keperluan administrasi sekolah. SekolahQu dibuat untuk semua jenjang sekolah mulai dari tingkat SD/Sederajat, SMP/Sederajat, SMA/Sederajat, dan Perguruan Tinggi.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tentang Open Source SekolahQu
 
-```markdown
-Syntax highlighted code block
+Analogi untuk mendeskripsikan open source adalah ibarat resep. Resep open source akan dipublikasikan yang berarti bahwa siapapun dapat mengetahui bahan dan instruksi, dan bahkan menyesuaikan resep untuk meningkatkan rasa hidangan. 
+Saya mengundang anda semua untuk meningkatkan mutu pendidikan di Indonesia. Jika anda tidak bisa mengajar, anda bisa bergabung untuk turut mengatur administrasi sekolah agar mempermudah seluruh jajaran profesi yang berada di pendidikan. 
 
-# Header 1
-## Header 2
-### Header 3
+### Bagaimana cara saya bisa berkontribusi ke dalam project ini?
 
-- Bulleted
-- List
+<dalam pengembangan>
+  
+### Apakah aplikasi ini gratis?
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sekolahQu/sekolahqu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Iya. Aplikasi ini gratis. Namun, kami membutuhkan resource untuk pengembangkan keseluruhan aplikasi ini. Anda bisa menyumbangkan dalam bentuk ide, materi, atau hal yang lain untuk mendukung aplikasi ini.
