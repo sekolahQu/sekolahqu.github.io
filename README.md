@@ -1,6 +1,6 @@
 ## Selamat Datang di website Project SekolahQu
 
-<dalam pengembangan>
+--dalam pengembangan--
 
 ### Tentang SekolahQu
 
@@ -14,7 +14,7 @@ Saya mengundang anda semua untuk meningkatkan mutu pendidikan di Indonesia. Jika
 
 ### Bagaimana cara saya bisa berkontribusi ke dalam project ini?
 
-<dalam pengembangan>
+--dalam pengembangan--
   
 ### Apakah aplikasi ini gratis?
 
